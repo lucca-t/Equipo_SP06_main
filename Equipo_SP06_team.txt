@@ -1,0 +1,13 @@
+Equipo SP06
+
+Integrantes y responsabilidades:
+
+- Lucca Traslosheros Abascal — A01713944
+  - Implementación del algoritmo KMP para la búsqueda de códigos maliciosos.
+  - Implementación del algoritmo de programación dinámica para encontrar el substring común más largo.
+  - Elaboración de la presentación y del documento, en conjunto con Oscar Lopez Cardoso.
+
+- Oscar Lopez Cardoso — A01713355
+  - Implementación del algoritmo de Manacher para encontrar el palíndromo más largo.
+  - Integración del análisis principal del programa.
+  - Elaboración de la presentación y del documento, en conjunto con Lucca Traslosheros Abascal.
